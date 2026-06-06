@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a82267fc-319f-4ed6-bf43-e0450295176f" name="Changes" comment="dpl2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/695.7883fa20db0c017a.js" beforeDir="false" />
@@ -47,12 +46,18 @@
       <change beforePath="$PROJECT_DIR$/assets/img/visionBackground.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Final - Company Deck October 2025.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Redesign Presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgroundConnectComponent.21ba6df31d778733.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgroundMissionComponent.2aa8e64cc759269d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgroundService.eb0dcc826359d634.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventsBackground.bf7bc02630493b8b.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.9031520e2bd52cca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.a229813dee3e74a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkArtistBackGround.e3360efd7bde1a13.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/polyfills.3e46157c9bc4ae93.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/runtime.e6ca1f6f06a29966.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.fa19e5e6b884e4bb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.d95fbe54e40b5b76.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visionBackground.d5ea87401d3726b8.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780738019095</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dpl2">
+      <option name="closed" value="true" />
+      <created>1780741689617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780741689617</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
