@@ -4,13 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82267fc-319f-4ed6-bf43-e0450295176f" name="Changes" comment="deploament" />
+    <list default="true" id="a82267fc-319f-4ed6-bf43-e0450295176f" name="Changes" comment="dpl">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/695.7883fa20db0c017a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/934.2ccd707f11528958.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/coming_soon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/events.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/i18n/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/i18n/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/IconLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Methods-network123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Network_Artist_Logo_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Network_Artist_Method_Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/andrew_profil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/backgroundConnectComponent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/backgroundMissionComponent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/backgroundService.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blackCoffee.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA10340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA13986.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA_0264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/tarek-8697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/tarek-8815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/eventsBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/networkArtistBackGround.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/network_method_all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phil_profil.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/visionBackground.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Final - Company Deck October 2025.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Redesign Presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.fd2cf326dd07d2df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkArtistBackGround.e3360efd7bde1a13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfills.3e46157c9bc4ae93.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.e6ca1f6f06a29966.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.2b585006e19f2512.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="finale2026" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -22,7 +77,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
-    "git-widget-placeholder": "finale2026"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,12 +102,29 @@
       <option name="project" value="LOCAL" />
       <updated>1780734335063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deploament">
+      <option name="closed" value="true" />
+      <created>1780734683300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780734683300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dpl">
+      <option name="closed" value="true" />
+      <created>1780734821433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780734821433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cleanup" />
     <MESSAGE value="deploament" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploament" />
+    <MESSAGE value="dpl" />
+    <option name="LAST_COMMIT_MESSAGE" value="dpl" />
   </component>
 </project>
