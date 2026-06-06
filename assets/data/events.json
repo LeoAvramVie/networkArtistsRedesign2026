@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "artist": "Global Rhythms Festival",
+    "images": [
+      "./assets/img/events/MOA_0264.jpg",
+      "./assets/img/events/MOA_8955.jpg"
+    ],
+    "description": "An immersive audio-visual journey connecting artists and music lovers worldwide.",
+    "order": 1
+  },
+  {
+    "id": "2",
+    "artist": "Future Sounds",
+    "images": [
+      "./assets/img/events/MOA10340.jpg",
+      "./assets/img/events/MOA10388.jpg"
+    ],
+    "description": "Exploring the boundary-pushing audio concepts of tomorrow with international trendsetters.",
+    "order": 2
+  },
+  {
+    "id": "3",
+    "artist": "Electronic Wave",
+    "images": [
+      "./assets/img/events/tarek-8697.jpg",
+      "./assets/img/events/tarek-8627.jpg"
+    ],
+    "description": "A deep dive into progressive grooves, driving techno beats, and ambient soundscapes.",
+    "order": 3
+  },
+  {
+    "id": "4",
+    "artist": "Artist Spotlight: Eliza G",
+    "images": [
+      "./assets/img/events/tarek-8815.jpg",
+      "./assets/img/events/tarek-8627.jpg"
+    ],
+    "description": "An intimate live showcase featuring the melodic and synth-pop signature sounds of Eliza G.",
+    "order": 4
+  },
+  {
+    "id": "5",
+    "artist": "Midnight Rave",
+    "images": [
+      "./assets/img/events/MOA13986.jpg",
+      "./assets/img/events/MOA10453.jpg"
+    ],
+    "description": "High-energy dancefloor energy going into the early hours of the morning.",
+    "order": 5
+  }
+]
