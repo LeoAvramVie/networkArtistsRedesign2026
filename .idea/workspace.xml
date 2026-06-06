@@ -4,56 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82267fc-319f-4ed6-bf43-e0450295176f" name="Changes" comment="dpl">
+    <list default="true" id="a82267fc-319f-4ed6-bf43-e0450295176f" name="Changes" comment="dpl2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/695.7883fa20db0c017a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/934.2ccd707f11528958.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/coming_soon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/events.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/Lato-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/lato/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/i18n/de.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/i18n/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/IconLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Methods-network123.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Network_Artist_Logo_white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Network_Artist_Method_Background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/andrew_profil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/backgroundConnectComponent.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/backgroundMissionComponent.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/backgroundService.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blackCoffee.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA10340.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA13986.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/MOA_0264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/tarek-8697.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/tarek-8815.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/eventsBackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/networkArtistBackGround.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/network_method_all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/phil_profil.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/visionBackground.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Final - Company Deck October 2025.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/NETWORK ARTISTS - Redesign Presentation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.fd2cf326dd07d2df.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/networkArtistBackGround.e3360efd7bde1a13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polyfills.3e46157c9bc4ae93.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.e6ca1f6f06a29966.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.2b585006e19f2512.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +29,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/leoavram/Code/networkArtistsRedesign2026"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -118,13 +74,22 @@
       <option name="project" value="LOCAL" />
       <updated>1780734821433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dpl2">
+      <option name="closed" value="true" />
+      <created>1780737039647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780737039647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cleanup" />
     <MESSAGE value="deploament" />
     <MESSAGE value="dpl" />
-    <option name="LAST_COMMIT_MESSAGE" value="dpl" />
+    <MESSAGE value="dpl2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dpl2" />
   </component>
 </project>
